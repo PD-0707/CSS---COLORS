@@ -1,0 +1,22 @@
+*{
+    text-align: center;
+}
+#red{
+    color:red;
+}
+#blue{
+    color:blue;
+}
+#green{
+    color:green;
+}
+#yellow{
+    color:yellow;
+}
+.color-title{
+    font-weight: normal;
+}
+.color{
+   height: 200;
+   width: 200;
+}
